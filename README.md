@@ -18,3 +18,7 @@ simply fill the .\Music folder
 # Player
 
 run the packaged Auremo.exe and connect with the defaults!
+
+# More
+
+You can find more tweaks explained here : https://chriswarrick.com/blog/2013/09/01/mpd-on-windows/
