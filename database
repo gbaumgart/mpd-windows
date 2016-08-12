@@ -21,12 +21,24 @@ tag: MUSICBRAINZ_ALBUMARTISTID
 tag: MUSICBRAINZ_TRACKID
 info_end
 directory: Cadenza
-mtime: 1471015802
+mtime: 1471015901
 begin: Cadenza
-song_begin: Cadenza Podcast 111 - SIS (Cycle).mp3
-Time: 4071
-Artist: Cadenza
-Title: Cadenza Podcast 111 - SIS (Cycle)
-mtime: 1415824979
+song_begin: 01-sunken_waltz-cmg.mp3
+Time: 147
+Artist: Calexico
+Title: Sunken Waltz
+Album: A Feast of Wire
+Track: 0
+Genre: Rock
+mtime: 1316550384
+song_end
+song_begin: 02-quattro-cmg.mp3
+Time: 278
+Artist: Calexico
+Title: Quattro
+Album: A Feast of Wire
+Track: 0
+Genre: Rock
+mtime: 1316550388
 song_end
 end: Cadenza
