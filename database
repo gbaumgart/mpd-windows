@@ -1,0 +1,32 @@
+info_begin
+format: 1
+mpd_version: 0.17.4
+fs_charset: cp1252
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Cadenza
+mtime: 1471015802
+begin: Cadenza
+song_begin: Cadenza Podcast 111 - SIS (Cycle).mp3
+Time: 4071
+Artist: Cadenza
+Title: Cadenza Podcast 111 - SIS (Cycle)
+mtime: 1415824979
+song_end
+end: Cadenza
